@@ -1,0 +1,21 @@
+/* Footer */
+
+.footer {
+    justify-content: center;
+    margin-top: 5%;
+    height: 80px;
+    background: #010e28;
+}
+
+.pie {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.pie a {
+    color: #FFF;
+    font-size: 11px;
+    text-transform: uppercase;
+    padding: 0 10px;
+    letter-spacing: 2px;
+}
